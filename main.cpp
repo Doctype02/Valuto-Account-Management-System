@@ -1,7 +1,6 @@
 /*
 Project Title : Account Management System
 Version       : 1.1
-Developed By  : Aditya Vikram Singh
 */
 
 // Header Files
