@@ -1,6 +1,5 @@
 # Project Title : Account Management System
 # Version       : 1.1
-# Developed By  : Aditya Vikram Singh
  
 # Class to hold the details of items used in Transaction
 class ITEM:
